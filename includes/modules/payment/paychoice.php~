@@ -75,8 +75,7 @@ class paychoice
 	 * Returns the Javascript validation string for receiving CC details
 	 * from the form (help make validation more efficient/effective)
 	 *
-	 * Originally from OSCommerce Javascript ValidaHOICE_TEXT_TITLE;
-		$this->description = MODULE_PAYMENtion form cc.php
+	 * Originally from OSCommerce Javascript Validation form cc.php
 	 *
 	 * @return String
 	 */
